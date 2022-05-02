@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cloudinary": "^1.29.1",
+    "is-empty": "^1.2.0",
+    "nodemon": "^2.0.16",
+    "validator": "^13.7.0"
+  }
+}
